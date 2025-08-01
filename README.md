@@ -61,7 +61,7 @@ Uygulama, birden fazla sayfa arasında yönlendirme, kullanıcıya özel korumal
 
 ## 🚀 Başlarken
 
-### 1. Depoyu klonlayın:
+### 1. Repoyu klonlayın:
 
 ```bash
 git https://github.com/ferhatipek/LearnLingo.git
