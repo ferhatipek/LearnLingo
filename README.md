@@ -1,6 +1,6 @@
 # LearnLingo
 
-**LearnLingo**, dil öğretmenlerini bulmak ve deneme dersi ayarlamak için kullanılan bir web uygulamasıdır. Kullanıcıların öğretmenleri incelemesine, hesap oluşturmasına/giriş yapmasına, favorilere öğretmen eklemesine ve deneme dersi talebi göndermesine olanak tanır.
+**LearnLingo**, dil öğretmenlerini bulmak ve deneme dersi ayarlamak için kullanılan bir web uygulamasıdır. Kullanıcıların öğretmenleri incelemesine, hesap oluşturmasına/giriş yapmasına, favori öğretmen eklemesine ve deneme dersi talebi göndermesine olanak tanır.
 
 ## 🔍 Proje Açıklaması
 
