@@ -1,4 +1,8 @@
 # LearnLingo
+Test User:
+Name: testlingo
+E-mail: testlingo@test.com
+Pw: testlingo
 
 **LearnLingo**, dil öğretmenlerini bulmak ve deneme dersi ayarlamak için kullanılan bir web uygulamasıdır. Kullanıcıların öğretmenleri incelemesine, hesap oluşturmasına/giriş yapmasına, favori öğretmen eklemesine ve deneme dersi talebi göndermesine olanak tanır.
 
